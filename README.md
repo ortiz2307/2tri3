@@ -12,3 +12,11 @@
    <h1>VOCÊ DECIDE O FUTURO DA I.A.</h1>
 </body>
 </html>
+
+const perguntas = [
+    enunciado: "Pergunta 1",
+    alternativas: [
+"Alternativa 1",
+"Alternativa 2"
+]
+   ];`
